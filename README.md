@@ -13,7 +13,7 @@ I build robust backend systems, developer infrastructure, and networking softwar
 
 ### 🏗️ Featured Projects
 
-#### [Styx](link-to-repo) | *Custom VPN Client & Protocol*
+#### [Styx](https://github.com/kritharth2005/styx) | *Custom VPN Client & Protocol*
 A headless VPN built from scratch featuring a Java control plane communicating with a Rust data plane through Unix Domain Sockets.
 * **Focus:** Systems programming, networking, cryptography, and operating systems.
 * **Tech Stack:** Java, Rust, Tokio, Linux TUN Interfaces, Unix Domain Sockets, ChaCha20-Poly1305.
@@ -23,7 +23,7 @@ A headless VPN built from scratch featuring a Java control plane communicating w
   * Uses ChaCha20-Poly1305 authenticated encryption for secure communication.
   * Validated networking architecture using Linux network namespaces and isolated test environments.
 
-#### [Argus](link-to-repo) | *Self-Hosted Platform-as-a-Service*
+#### [Argus](https://github.com/kritharth2005/argus) | *Self-Hosted Platform-as-a-Service*
 A lightweight Platform-as-a-Service that automates application deployment and infrastructure management for containerized workloads.
 * **Focus:** Backend infrastructure, deployment automation, and cloud-native systems.
 * **Tech Stack:** Java, Spring Boot, Docker, Linux.
@@ -50,5 +50,5 @@ A lightweight Platform-as-a-Service that automates application deployment and in
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Kritharth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritharth2005&show_icons=true&theme=radical&hide_border=true" alt="Kritharth's GitHub Stats" />
 </div>
