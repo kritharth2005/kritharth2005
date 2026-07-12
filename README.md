@@ -44,11 +44,3 @@ A lightweight Platform-as-a-Service that automates application deployment and in
 | **Systems Programming** | Linux, Unix Domain Sockets, Networking, TUN Interfaces, Tokio |
 | **Infrastructure & DevOps** | Docker, CI/CD, Linux System Administration |
 | **Architecture** | Distributed Systems, Modular Monoliths, Containerization, System Design |
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-amber-zeta-80.vercel.app/api?username=kritharth2005&show_icons=true&theme=radical&hide_border=true" alt="Kritharth's GitHub Stats" />
-</div>
