@@ -7,7 +7,7 @@ I build robust backend systems, developer infrastructure, and networking softwar
 - 🔭 **Currently building:** Distributed backend systems, networking infrastructure, and developer tooling.
 - ⚙️ **Engineering philosophy:** Build simple interfaces over complex systems. Prioritize reliability, observability, and maintainability.
 - 🐧 **Environment:** Linux native (Arch).
-- 📫 **Reach me at:** [Your Email] • [LinkedIn URL] • [Portfolio URL]
+- 📫 **Reach me at:** [kritharth16@gmail.com] • [https://www.linkedin.com/in/kritharth-shetty-23a246293/]
 
 ---
 
@@ -50,5 +50,5 @@ A lightweight Platform-as-a-Service that automates application deployment and in
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritharth2005&show_icons=true&theme=radical&hide_border=true" alt="Kritharth's GitHub Stats" />
+  <img src="https://github-readme-stats-amber-zeta-80.vercel.app/api?username=kritharth2005&show_icons=true&theme=radical&hide_border=true" alt="Kritharth's GitHub Stats" />
 </div>
