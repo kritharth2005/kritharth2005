@@ -30,7 +30,7 @@ A lightweight Platform-as-a-Service that automates application deployment and in
 * **System Highlights:**
   * Automates deployment workflows for containerized applications.
   * Implements a modular backend architecture for extensibility and maintainability.
-  * Built a lightweight CLI-based Platform-as-a-Service (PaaS) to automate application deployment and infrastructure management for containerized workloads.
+  * Built a lightweight CLI service to automate application deployment and infrastructure management.
   * Designed with reliability and operational simplicity as primary goals.
 
 ---
