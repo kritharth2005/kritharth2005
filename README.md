@@ -26,11 +26,11 @@ A headless VPN built from scratch featuring a Java control plane communicating w
 #### [Argus](https://github.com/kritharth2005/argus) | *Self-Hosted Platform-as-a-Service*
 A lightweight Platform-as-a-Service that automates application deployment and infrastructure management for containerized workloads.
 * **Focus:** Backend infrastructure, deployment automation, and cloud-native systems.
-* **Tech Stack:** Java, Spring Boot, Docker, Linux.
+* **Tech Stack:** Java, GraalVM, Docker, Linux.
 * **System Highlights:**
   * Automates deployment workflows for containerized applications.
   * Implements a modular backend architecture for extensibility and maintainability.
-  * Provides clean APIs for managing deployments and runtime environments.
+  * Built a lightweight CLI-based Platform-as-a-Service (PaaS) to automate application deployment and infrastructure management for containerized workloads.
   * Designed with reliability and operational simplicity as primary goals.
 
 ---
