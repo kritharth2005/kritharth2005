@@ -1,46 +1,68 @@
-# Hi, I'm Kritharth Shetty ⚡
+<div align="center">
 
-**Software Engineer | Backend Systems & Infrastructure**
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:6a0dad,100:ff6a00&height=200&section=header&text=Kritharth%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 
-I build robust backend systems, developer infrastructure, and networking software with a strong focus on system architecture, performance, and reliability. Currently working as a Software Project Intern at **Datavex.ai**, I enjoy building low-level systems that bridge software engineering with operating systems and networking.
+<a href="https://github.com/kritharth2005">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=600&lines=Backend+Engineer;Systems+%26+Distributed+Infra;Fueled+by+caffeine+and+deadlines;sudo+make+me+sleep+--+Permission+denied" />
+</a>
 
-- 🔭 **Currently building:** Distributed backend systems, networking infrastructure, and developer tooling.
-- ⚙️ **Engineering philosophy:** Build simple interfaces over complex systems. Prioritize reliability, observability, and maintainability.
+</div>
+
+**Software Engineer | Backend Systems & Distributed Infrastructure**
+
+I build backend systems and developer infrastructure, with a focus on system architecture, reliability, and correctness under failure. I'm particularly interested in distributed systems, low-level software, operating systems, and networking.
+
+- ⚙️ **Engineering philosophy:** I believe in building simple interfaces over complex systems, with reliability, observability, and maintainability as first-class concerns.
+- 🌱 **Open source:** I enjoy understanding large codebases and contributing to software used beyond my own projects.
 - 🐧 **Environment:** Linux native (Arch).
-- 📫 **Reach me at:** [kritharth16@gmail.com] • [https://www.linkedin.com/in/kritharth-shetty-23a246293/]
+
+<div align="center">
+
+<a href="mailto:kritharth16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kritharth-shetty-23a246293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
 
 ---
 
-### 🏗️ Featured Projects
+### 💻 Tech Stack
 
-#### [Styx](https://github.com/kritharth2005/styx) | *Custom VPN Client & Protocol*
-A headless VPN built from scratch featuring a Java control plane communicating with a Rust data plane through Unix Domain Sockets.
-* **Focus:** Systems programming, networking, cryptography, and operating systems.
-* **Tech Stack:** Java, Rust, Tokio, Linux TUN Interfaces, Unix Domain Sockets, ChaCha20-Poly1305.
-* **System Highlights:**
-  * Built a custom encrypted VPN protocol with separated control and data planes.
-  * Intercepts packets through Linux TUN interfaces for secure packet forwarding.
-  * Uses ChaCha20-Poly1305 authenticated encryption for secure communication.
-  * Validated networking architecture using Linux network namespaces and isolated test environments.
+<div align="center">
 
-#### [Argus](https://github.com/kritharth2005/argus) | *Self-Hosted Platform-as-a-Service*
-A lightweight Platform-as-a-Service that automates application deployment and infrastructure management for containerized workloads.
-* **Focus:** Backend infrastructure, deployment automation, and cloud-native systems.
-* **Tech Stack:** Java, GraalVM, Docker, Linux.
-* **System Highlights:**
-  * Automates deployment workflows for containerized applications.
-  * Implements a modular backend architecture for extensibility and maintainability.
-  * Built a lightweight CLI service to automate application deployment and infrastructure management.
-  * Designed with reliability and operational simplicity as primary goals.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
 
 ---
 
-### 💻 Core Engineering Stack
+### 📊 GitHub Stats
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Java, Rust, Go, Python, C, JavaScript |
-| **Backend** | Spring Boot, FastAPI, REST APIs |
-| **Systems Programming** | Linux, Unix Domain Sockets, Networking, TUN Interfaces, Tokio |
-| **Infrastructure & DevOps** | Docker, CI/CD, Linux System Administration |
-| **Architecture** | Distributed Systems, Modular Monoliths, Containerization, System Design |
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="49%" />
+
+<img src="./profile/streak.svg" width="70%" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:6a0dad,100:ff6a00&height=100&section=footer" />
+</div>
