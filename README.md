@@ -3,25 +3,40 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:6a0dad,100:ff6a00&height=200&section=header&text=Kritharth%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://github.com/kritharth2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=600&lines=Backend+Engineer;Systems+%26+Distributed+Infra;Fueled+by+caffeine+and+deadlines;sudo+make+me+sleep+--+Permission+denied" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=600&lines=Systems+Software+Engineer;C+%2F+C%2B%2B+%2F+Go;Kernels%2C+drivers+and+datapaths;Measured%2C+not+guessed;sudo+make+me+sleep+--+Permission+denied" />
 </a>
 
 </div>
 
-**Software Engineer | Backend Systems & Distributed Infrastructure**
+**Systems Software | OS Internals, Drivers & the Network Datapath**
 
-I build backend systems and developer infrastructure, with a focus on system architecture, reliability, and correctness under failure. I'm particularly interested in distributed systems, low-level software, operating systems, and networking.
+I work on software close to the hardware: how drivers behave when devices misbehave, how packets move from the NIC to a socket, and where latency actually goes. I care about correctness under failure, and I'd rather measure a system than guess about it.
 
-- ⚙️ **Engineering philosophy:** I believe in building simple interfaces over complex systems, with reliability, observability, and maintainability as first-class concerns.
-- 🌱 **Open source:** I enjoy understanding large codebases and contributing to software used beyond my own projects.
-- 🐧 **Environment:** Linux native (Arch).
+- 🔧 **Now:** building **Hostile Device** — a harness that plays a failing emulated PCIe device against real, unmodified Linux drivers under load, and judges whether they recover
+- 🐧 **Lab:** a debug mainline kernel in QEMU with gdb attached (KASAN, lockdep, kmemleak) — kernel modules and drivers get written and broken there, never on the host
+- 📚 **Learning in public:** C++ from the ground up (RAII, move semantics, memory ordering, cache-aware layout), C in its kernel dialect, computer architecture, and the Linux networking stack
+- 🌱 **Open source:** Apache Pulsar contributor; currently reading [rdma-core](https://github.com/linux-rdma/rdma-core) ahead of contributing
+- ⚙️ **Philosophy:** every design gets a deliberately injected failure before I trust it
 
 <div align="center">
 
-<a href="mailto:kritharth16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kritharth26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kritharth-shetty-23a246293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
+
+---
+
+### 🛠️ Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Hostile Device** *(in progress)* | Fault injection at the PCIe boundary: event-triggered faults (withheld interrupts, all-1's reads after surprise removal, bogus completions) in QEMU device models, run against upstream drivers carrying real traffic. Every finding replays deterministically | C, QEMU, Linux kernel |
+| **Rewind** | Local-first snapshot system — content-defined chunking, Zstandard reverse deltas, SQLite manifests. Two research papers on it | Go, SQLite |
+| **Styx** | VPN built from scratch — control plane and packet engine split across a Unix domain socket, ChaCha20-Poly1305 | Rust, Java |
+### 🌱 Open Source
+
+- **Apache Pulsar** — Redis sink connector: [ACL support + TLS hardening (#126)](https://github.com/apache/pulsar-connectors/pull/126), [TLS peer verification and truststore support (#135)](https://github.com/apache/pulsar-connectors/pull/135)
 
 ---
 
@@ -29,24 +44,24 @@ I build backend systems and developer infrastructure, with a focus on system arc
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![perf / eBPF](https://img.shields.io/badge/perf_%2F_eBPF-222222?style=for-the-badge&logo=ebpf&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 </div>
 
